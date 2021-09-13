@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1023548368579",
+    "project_id": "social-login-29fe0",
+    "storage_bucket": "social-login-29fe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023548368579:android:85d76c504c3efbe8e62476",
+        "android_client_info": {
+          "package_name": "com.strink.sociallogins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023548368579-ic1hc15k4fqn1a6fj6mdujulpp5bpig8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.strink.sociallogins",
+            "certificate_hash": "7bf45c2662ec9e9ccb1dcbe312c4901c1b5e9bd1"
+          }
+        },
+        {
+          "client_id": "1023548368579-f7ogv2r8o65smga4o827ndef7bsv532c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr3NySiVPeYp9L1YgMOY7983YrAvYEz1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023548368579-f7ogv2r8o65smga4o827ndef7bsv532c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
