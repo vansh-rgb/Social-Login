@@ -16,9 +16,9 @@ After Loging in, the app will show the Profile Pic, Name and Email linked with t
 
 ## Screenshots
 
-[<img src="/readme/home.jpg" height=300 align=center
+[<img src="/readme/home.jpg" height=300 
     hspace="10" vspace="10">](/readme/home.jpg)
-[<img src="/readme/gmail.jpg" height=300 alignright
+[<img src="/readme/gmail.jpg" height=300 
     hspace="10" vspace="10">](/readme/gmail.jpg)
 [<img src="/readme/facebook.jpg" height=300
     hspace="10" vspace="10">](/readme/facebook.jpg)
